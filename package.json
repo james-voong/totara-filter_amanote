@@ -1,0 +1,24 @@
+{
+  "name": "totara-filter_amanote",
+  "version": "1.0.0",
+  "description": "Amanote allows students to take clear and structured notes linked with their course materials.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "tslint -c tslint.json 'src/amd/src/*.ts'",
+    "build": "npm run compile && npm run minify && bestzip ./dist/totara-filter_amanote.zip ./src/*",
+    "compile": "tsc src/amd/src/main.ts --outDir src/amd/src",
+    "minify": "uglifyjs src/amd/src/main.js -o src/amd/build/main.min.js"
+  },
+  "author": "Amaplex Software",
+  "license": "GNU GPL V3",
+  "dependencies": {},
+  "devDependencies": {
+    "@amaplex-software/amaplex-tslint-config": "^1.0.12",
+    "@types/jquery": "^3.3.31",
+    "@types/requirejs": "^2.1.31",
+    "bestzip": "^2.1.5",
+    "tslint": "^6.0.0",
+    "uglify-js": "^3.7.7",
+    "typescript": "^3.7.5"
+  }
+}

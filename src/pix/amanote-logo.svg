@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1999px" height="573px" viewBox="0 0 1999 573" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-36.000000, 14.000000)">
+            <path d="M273,466 C379.590957,466 466,379.590957 466,273 C466,214.749624 378.810127,239.512718 338.007332,204.125478 C304.146077,174.758463 321.340581,80 273,80 C166.409043,80 80,166.409043 80,273 C80,379.590957 166.409043,466 273,466 Z" id="Oval" fill="#CCEEDD" transform="translate(273.000000, 273.000000) rotate(-135.000000) translate(-273.000000, -273.000000) "></path>
+            <path d="M273,466 C323.261762,466 369.036101,446.787057 403.379363,415.304824 C441.868431,380.02216 466,329.329195 466,273 C466,214.749624 378.810127,239.512718 338.007332,204.125478 C304.146077,174.758463 321.340581,80 273,80 C166.409043,80 80,166.409043 80,273 C80,379.590957 166.409043,466 273,466 Z" id="Oval" fill="#22B66E"></path>
+            <rect id="Rectangle" fill="#DFF4EA" x="130" y="235" width="176" height="24" rx="12"></rect>
+            <rect id="Rectangle" fill="#DFF4EA" x="130" y="280" width="223" height="24" rx="12"></rect>
+            <rect id="Rectangle" fill="#DFF4EA" x="130" y="328" width="118" height="24" rx="12"></rect>
+        </g>
+        <text id="Amanote" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="290" font-weight="bold" fill="#617383">
+            <tspan x="618.225" y="397">Amanote</tspan>
+        </text>
+    </g>
+</svg>

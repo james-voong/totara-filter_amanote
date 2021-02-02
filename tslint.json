@@ -1,0 +1,4 @@
+{
+  "extends": ["@amaplex-software/amaplex-tslint-config"],
+  "rules": {}
+}
